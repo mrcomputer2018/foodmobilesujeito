@@ -53,4 +53,8 @@ Join our community of developers creating universal apps.
 
 ### npx expo install react-native-pager-view
 
-- Para uso na visualização das imagens
+- Para uso de slider das imagens do banner.
+
+### npm install json-server
+
+- api fake para exibição dos dados na aplicação.
