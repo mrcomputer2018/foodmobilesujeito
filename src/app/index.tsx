@@ -1,9 +1,10 @@
 import { ScrollView, Text, View } from "react-native";
 import { Header } from "../components/header";
 import { Banner } from "../components/banner";
+import { Search } from "../components/search";
 
 import Constants from "expo-constants";
-import { Search } from "../components/search";
+
 
 
 const statusBarHeight = Constants.statusBarHeight; // pegando a altura da status bar
